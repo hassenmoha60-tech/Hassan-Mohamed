@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Hassan Mohamed</h1>
+<h1 align="center">Hi 👋, I'm  Hassan Mohamed</h1>
 <h3 align="center">A passionate Software Engineering Undergraduate & Aspiring Full-Stack Developer</h3>
 
 - 🌱 I’m currently learning **Full-Stack Development, Python, and Databases**
